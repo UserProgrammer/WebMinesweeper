@@ -1,0 +1,16 @@
+.minesweeper-map-cell{
+    background-color: red;
+    width: 16px;
+    height: 16px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#minesweeper-map{
+  border-collapse: collapse;
+}
+
+/*Used to prevent revealed cells from being clicked in */
+.revealed{
+
+}
